@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+    <TITLE>Betty and Barbara's Basketball Bonanza - Services</TITLE>
+</HEAD>
+<BODY BGCOLOR="#F5F5DC">
+    <CENTER>
+        <H1><FONT FACE="Times New Roman">Our Services</FONT></H1>
+    </CENTER>
+    
+    <P><B>Welcome to Betty and Barbara's Basketball Bonanza!</B> We offer a range of services to help you improve your basketball skills, gear up for the game, and enjoy the sport to the fullest.</P>
+    
+    <H2><FONT FACE="Times New Roman">Training Programs</FONT></H2>
+    <UL>
+        <LI><B><I>Beginner Basketball Camp</I></B> - A perfect start for young players.</LI>
+        <LI><B><I>Advanced Shooting Clinics</I></B> - Improve your shooting accuracy and form.</LI>
+        <LI><B><I>Personalized Coaching</I></B> - One-on-one sessions with experienced trainers.</LI>
+    </UL>
+    
+    <H2><FONT FACE="Times New Roman">Equipment Rental</FONT></H2>
+    <P>We provide <U>high-quality basketballs, hoops, and training gear</U> for rent at affordable prices.</P>
+    
+    <H2><FONT FACE="Times New Roman">Event Hosting</FONT></H2>
+    <OL>
+        <LI>Birthday Parties with basketball-themed games.</LI>
+        <LI>Corporate Team Building Basketball Tournaments.</LI>
+        <LI>Community League Organization.</LI>
+    </OL>
+    
+    <H2><FONT FACE="Times New Roman">Additional Services</FONT></H2>
+    <P><FONT COLOR="RED"><B>Basketball Court Installation</B></FONT> - We set up professional indoor and outdoor courts.</P>
+    <P><FONT COLOR="BLUE"><I>Basketball Gear Customization</I></FONT> - Get personalized jerseys, shoes, and accessories.</P>
+    
+    <H3>Special Offer!</H3>
+    <CENTER>
+        <A HREF="15% off Image.webp">
+            <IMG SRC="image.png" ALT="Basketball Birthday Party - 15% OFF!">
+        </A>
+    </CENTER>
+    
+    <H3>Resources</H3>
+    <P>Download our <A HREF="training_guide.pdf">Training Guide</A> to get started!</P>
+    
+    <H3>Useful Links</H3>
+    <UL>
+        <LI><A HREF="https://www.nba.com" TARGET="_blank">Official NBA Website</A></LI>
+        <LI><A HREF="about.html">About Us</A></LI>
+    </UL>
+    
+    <P><A HREF="mailto:contact@basketballbonanza.com">Contact Us</A></P>
+    
+    <SCRIPT>
+        document.write("Last modified: " + document.lastModified);
+    </SCRIPT>
+</BODY>
+</HTML>
