@@ -122,10 +122,22 @@
                 <p><b>Sizes:</b> S, M, L, XL</p>
             </div>
         </div>
+        
+        <div class="product">
+            <div>
+                <h2>9. Basketball Jersey</h2>
+                <p><i>Breathable, moisture-wicking jersey for game play.</i></p>
+                <p><b>Price:</b> $39.99</p>
+                <p><b>Colors:</b> Red, Blue, White, Black, Yellow</p>
+                <p><b>Sizes:</b> XS, S, M, L, XL, XXL</p>
+            </div>
+            <img src="basketball_jersey.jpg" alt="Basketball Jersey">
+        </div>
     </div>
 
     <p><a href="https://www.nba.com" target="_blank">Check out the latest in basketball news</a></p>
-    <p><a href="mailto:contact@bettybarbarahoops.com">Contact Us</a></p>
+    <p><a href="mailto:contact@basketballonanza.com">Contact Us</a></p>
+    <p><a href="Betty and Barbara’s Basketball Bonanza Return & Exchange Policy.pdf" download>Download our Return & Exchange Policy</a></p>
     <p>Last Modified: <script>document.write(document.lastModified);</script></p>
 </body>
 </html>
