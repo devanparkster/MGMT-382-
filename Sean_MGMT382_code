@@ -5,7 +5,7 @@
 </head>
 <body bgcolor="black" text="white">
     <h1 align="center"><font face="Georgia" color="red" size="10">Our Products</font></h1>
-    <p><font face="Verdana" size="3">Welcome to our products page! We offer a wide variety of basketball-related products to help you improve your game and enjoy the sport. Note that for all products, each color has the same price.</font></p>
+    <p><font face="Verdana" size="3"><u>Welcome to our products page! We offer a wide variety of basketball-related products to help you improve your game and enjoy the sport. Note that for all products, each color has the same price.</u></font></p>
     
     <table border="1" width="100%" cellpadding="5">
         <tr>
@@ -104,10 +104,12 @@
             </td>
         </tr>
     </table>
-    
-    <p><a href="https://www.nba.com" target="_blank">Check out the latest in basketball news</a></p>
-    <p><a href="mailto:contact@basketballbonanza.com">Contact Us</a></p>
-    <p><a href="Return & Exchange Policy.pdf" download>Download our Return & Exchange Policy</a></p>
+	<ul>
+        <li>Read our latest in basketball news <a href="https://www.nba.com" target="_blank">here! </a></li>
+        <li>Download our Return & Exchange Policy: <a href="Return & Exchange Policy.pdf" download>Return & Exchange Policy</a></li>
+        <li>Contact with us: <a href="mailto:contact@basketballbonanza.com">here</a></li>
+    </ul>
+	
     <p>Last Modified: <script>document.write(document.lastModified);</script></p>
 </body>
 </html>
