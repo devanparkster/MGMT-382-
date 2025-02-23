@@ -1,124 +1,98 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.0//EN">
 <html>
 <head>
     <title>Betty and Barbara’s Basketball Bonanza - Products</title>
-    <style>
-        .product-container {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: space-between;
-        }
-        .product {
-            width: 48%;
-            border: 1px solid #ccc; 
-            padding: 10px;
-            margin-bottom: 20px;
-        }
-        .product img {
-            display: block;
-            margin: 0 auto;
-        }
-    </style>
 </head>
-<body>
-    <h1>Our Products</h1>
-    <p>Welcome to our products page! We offer a wide variety of basketball-related products to help you improve your game and enjoy the sport. Note that for all products, each color has the same price.</p>
-
-    <div class="product-container">
-        <div class="product">
-            <h2>1. Pro Basketball</h2>
-            <img src="pro_basketball.jpg" alt="Pro Basketball" width="200">
-            <p><i>Official-sized basketball for professional-level play.</i></p>
-            <p><b>Price:</b> $29.99</p>
-            <p><b>Colors:</b> Orange, Black, Brown, Red, Blue</p>
-            <p><b>Sizes:</b> Standard</p>
-        </div>
-
-        <div class="product">
-            <h2>2. Portable Basketball Hoop</h2>
-            <img src="portable_hoop.jpg" alt="Portable Hoop" width="200">
-            <p><i>Adjustable height with a durable base for indoor and outdoor use.</i></p>
-            <p><b>Price:</b> $199.99</p>
-            <p><b>Colors:</b> Black, White, Red, Blue, Gray</p>
-            <p><b>Sizes:</b> Adjustable</p>
-        </div>
-        
-        <div class="product">
-            <h2>3. Indoor Basketball</h2>
-            <img src="indoor_basketball.jpg" alt="Indoor Basketball" width="200">
-            <p><i>High-quality leather basketball designed for indoor courts.</i></p>
-            <p><b>Price:</b> $39.99</p>
-            <p><b>Colors:</b> Orange, Brown, Black, Blue, Red</p>
-            <p><b>Sizes:</b> Standard</p>
-        </div>
-
-        <div class="product">
-            <h2>4. Outdoor Basketball</h2>
-            <img src="outdoor_basketball.jpg" alt="Outdoor Basketball" width="200">
-            <p><i>Durable rubber basketball built for rough outdoor courts.</i></p>
-            <p><b>Price:</b> $24.99</p>
-            <p><b>Colors:</b> Orange, Black, Yellow, Blue, Green</p>
-            <p><b>Sizes:</b> Standard</p>
-        </div>
-        
-        <div class="product">
-            <h2>5. Basketball Net</h2>
-            <img src="basketball_net.jpg" alt="Basketball Net" width="200">
-            <p><i>Durable nylon net for standard basketball hoops.</i></p>
-            <p><b>Price:</b> $9.99</p>
-            <p><b>Colors:</b> White, Red, Blue, Black, Yellow</p>
-            <p><b>Sizes:</b> Standard</p>
-        </div>
-        
-        <div class="product">
-            <h2>6. Basketball Shoes</h2>
-            <img src="basketball_shoes.jpg" alt="Basketball Shoes" width="200">
-            <p><i>High-performance shoes for traction and support.</i></p>
-            <p><b>Price:</b> $99.99</p>
-            <p><b>Colors:</b> Black, White, Red, Blue, Green</p>
-            <p><b>Sizes:</b> XS, S, M, L, XL, XXL</p>
-        </div>
-        
-        <div class="product">
-            <h2>7. Basketball Backpack</h2>
-            <img src="basketball_backpack.jpg" alt="Basketball Backpack" width="200">
-            <p><i>Spacious backpack with a dedicated compartment for a basketball.</i></p>
-            <p><b>Price:</b> $49.99</p>
-            <p><b>Colors:</b> Black, Blue, Red, White, Gray</p>
-            <p><b>Sizes:</b> One Size</p>
-        </div>
-
-        <div class="product">
-            <h2>8. Compression Sleeves</h2>
-            <img src="compression_sleeves.jpg" alt="Compression Sleeves" width="200">
-            <p><i>Provides support and improves circulation for your arms.</i></p>
-            <p><b>Price:</b> $19.99</p>
-            <p><b>Colors:</b> Black, White, Red, Blue, Green</p>
-            <p><b>Sizes:</b> S, M, L, XL</p>
-        </div>
-
-        <div class="product">
-            <h2>9. Basketball Jersey</h2>
-            <img src="basketball_jersey.jpg" alt="Basketball Jersey" width="200">
-            <p><i>Breathable fabric jersey for maximum comfort on the court.</i></p>
-            <p><b>Price:</b> $34.99</p>
-            <p><b>Colors:</b> Red, Blue, Black, White, Yellow</p>
-            <p><b>Sizes:</b> XS, S, M, L, XL, XXL</p>
-        </div>
-        
-        <div class="product">
-            <h2>10. Basketball Socks</h2>
-            <img src="basketball_socks.jpg" alt="Basketball Socks" width="200">
-            <p><i>Moisture-wicking socks for maximum comfort and support.</i></p>
-            <p><b>Price:</b> $12.99</p>
-            <p><b>Colors:</b> Black, White, Red, Blue, Gray</p>
-            <p><b>Sizes:</b> S, M, L</p>
-        </div>
-    </div>
-
+<body bgcolor="#ffffff" text="#000000">
+    <h1><font face="Arial" color="blue">Our Products</font></h1>
+    <p><font face="Verdana" size="3">Welcome to our products page! We offer a wide variety of basketball-related products to help you improve your game and enjoy the sport. Note that for all products, each color has the same price.</font></p>
+    
+    <table border="1" width="100%" cellpadding="5">
+        <tr>
+            <td><b>1. Pro Basketball</b><br>
+                <img src="pro_basketball.jpg" alt="Pro Basketball" width="200"><br>
+                <i>Official-sized basketball for professional-level play.</i><br>
+                <b>Price:</b> $29.99<br>
+                <b>Colors:</b> Orange, Black, Brown, Red, Blue<br>
+                <b>Sizes:</b> Standard
+            </td>
+            <td><b>2. Portable Basketball Hoop</b><br>
+                <img src="portable_hoop.jpg" alt="Portable Hoop" width="200"><br>
+                <i>Adjustable height with a durable base for indoor and outdoor use.</i><br>
+                <b>Price:</b> $199.99<br>
+                <b>Colors:</b> Black, White, Red, Blue, Gray<br>
+                <b>Sizes:</b> Adjustable
+            </td>
+        </tr>
+        <tr>
+            <td><b>3. Indoor Basketball</b><br>
+                <img src="indoor_basketball.jpg" alt="Indoor Basketball" width="200"><br>
+                <i>High-quality leather basketball designed for indoor courts.</i><br>
+                <b>Price:</b> $39.99<br>
+                <b>Colors:</b> Orange, Brown, Black, Blue, Red<br>
+                <b>Sizes:</b> Standard
+            </td>
+            <td><b>4. Outdoor Basketball</b><br>
+                <img src="outdoor_basketball.jpg" alt="Outdoor Basketball" width="200"><br>
+                <i>Durable rubber basketball built for rough outdoor courts.</i><br>
+                <b>Price:</b> $24.99<br>
+                <b>Colors:</b> Orange, Black, Yellow, Blue, Green<br>
+                <b>Sizes:</b> Standard
+            </td>
+        </tr>
+        <tr>
+            <td><b>5. Basketball Net</b><br>
+                <img src="basketball_net.jpg" alt="Basketball Net" width="200"><br>
+                <i>Durable nylon net for standard basketball hoops.</i><br>
+                <b>Price:</b> $9.99<br>
+                <b>Colors:</b> White, Red, Blue, Black, Yellow<br>
+                <b>Sizes:</b> Standard
+            </td>
+            <td><b>6. Basketball Shoes</b><br>
+                <img src="basketball_shoes.jpg" alt="Basketball Shoes" width="200"><br>
+                <i>High-performance shoes for traction and support.</i><br>
+                <b>Price:</b> $99.99<br>
+                <b>Colors:</b> Black, White, Red, Blue, Green<br>
+                <b>Sizes:</b> XS, S, M, L, XL, XXL
+            </td>
+        </tr>
+        <tr>
+            <td><b>7. Basketball Backpack</b><br>
+                <img src="basketball_backpack.jpg" alt="Basketball Backpack" width="200"><br>
+                <i>Spacious backpack with a dedicated compartment for a basketball.</i><br>
+                <b>Price:</b> $49.99<br>
+                <b>Colors:</b> Black, Blue, Red, White, Gray<br>
+                <b>Sizes:</b> One Size
+            </td>
+            <td><b>8. Compression Sleeves</b><br>
+                <img src="compression_sleeves.jpg" alt="Compression Sleeves" width="200"><br>
+                <i>Provides support and improves circulation for your arms.</i><br>
+                <b>Price:</b> $19.99<br>
+                <b>Colors:</b> Black, White, Red, Blue, Green<br>
+                <b>Sizes:</b> S, M, L, XL
+            </td>
+        </tr>
+        <tr>
+            <td><b>9. Basketball Jersey</b><br>
+                <img src="basketball_jersey.jpg" alt="Basketball Jersey" width="200"><br>
+                <i>Breathable fabric jersey for maximum comfort on the court.</i><br>
+                <b>Price:</b> $34.99<br>
+                <b>Colors:</b> Red, Blue, Black, White, Yellow<br>
+                <b>Sizes:</b> XS, S, M, L, XL, XXL
+            </td>
+            <td><b>10. Basketball Socks</b><br>
+                <img src="basketball_socks.jpg" alt="Basketball Socks" width="200"><br>
+                <i>Moisture-wicking socks for maximum comfort and support.</i><br>
+                <b>Price:</b> $12.99<br>
+                <b>Colors:</b> Black, White, Red, Blue, Gray<br>
+                <b>Sizes:</b> S, M, L
+            </td>
+        </tr>
+    </table>
+    
     <p><a href="https://www.nba.com" target="_blank">Check out the latest in basketball news</a></p>
-    <p><a href="contact@basketballbonanza.com">Contact Us</a></p>
-    <p><a href="Return & Exchange Policy.pdf" download>Download our Return & Exchange Policy</a></p>
+    <p><a href="mailto:contact@basketballbonanza.com">Contact Us</a></p>
+    <p><a href="Return_Exchange_Policy.pdf" download>Download our Return & Exchange Policy</a></p>
     <p>Last Modified: <script>document.write(document.lastModified);</script></p>
 </body>
 </html>
